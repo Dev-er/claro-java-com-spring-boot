@@ -1,0 +1,1 @@
+web: java -jar build/libs/Claro-Java-com-Spring-Boot-0.0.1-SNAPSHOT.jar
